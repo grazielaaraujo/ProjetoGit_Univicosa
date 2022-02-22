@@ -1,12 +1,9 @@
                            ********* PROJETO CRUD DE PROFESSOR  *********
 
 ####  PROGRAMAS UTILIZADOS  
-  *WAMP Server versão 3.2.6
-
-
-
-
-
+        *WAMP Server versão 3.2.6
+        *MySQL Workbench versão 8 CE
+        *Visual Studio Code
 
 
 ####  INSTRUÇÕES PARA EXECUÇÃO  ####
