@@ -1,4 +1,4 @@
-                            ******  PROJETO CRUD DE PROFESSOR  ******
+                           # PROJETO CRUD DE PROFESSOR  
 
   #  PROGRAMAS UTILIZADOS  
 *WAMP Server versão 3.2.6
