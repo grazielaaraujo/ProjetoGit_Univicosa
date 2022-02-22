@@ -6,11 +6,11 @@
         *Visual Studio Code
 
 
-####  INSTRUÇÕES PARA EXECUÇÃO  ####
+####  INSTRUÇÕES PARA EXECUÇÃO  
 
 (Passo 1): Faça download dos diretórios "crud" e "projeto-sql".
 
-(Passo 2):
+(Passo 2):  No MySQL Workbench crie uma conexão para o usuário "root"
 
 
 (Passo 3):
